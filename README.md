@@ -1,6 +1,6 @@
 # Comp140-Platformer
-##Technical Spec Document
-###Classes:
+## Technical Spec Document
+### Classes:
 Camera Controller
 Player Movement 
 Base enemy class
